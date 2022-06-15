@@ -15,9 +15,13 @@ like me and the games I grew up with, is my dream.
 **B.S Information Technology | 2020 | New Jersey Institute of Technology**
 * related coursework: Game Architecture and Design, Foundations of Game Production, Creative AI, 2D Game Development
 
-## Experience
+## Projects
 ---
-**
+### Game Jams
+**Global Game Jam 2019**
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+sdgzdfvbsbsgh
+
 
 # H1
 ## H2

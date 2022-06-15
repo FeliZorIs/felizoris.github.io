@@ -7,6 +7,7 @@ My goal is to one day lead a team of developers on a game that people will love 
 I want to be a part of a game that people will look fondly over, or that people will say "hey I grew up with this",
 or that "this made my childhood". Being a part of what makes people want to take up games and game development, 
 like me and the games I grew up with, is my dream.
+
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 # H1

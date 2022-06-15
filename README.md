@@ -12,6 +12,12 @@ like me and the games I grew up with, is my dream.
 
 ## Education
 ---
+**B.S Information Technology | 2020 | New Jersey Institute of Technology**
+* related coursework: Game Architecture and Design, Foundations of Game Production, Creative AI, 2D Game Development
+
+## Experience
+---
+**
 
 # H1
 ## H2
